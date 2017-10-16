@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation]
+"Manufacturer"="Fabricant"
+"SupportURL"="http://support.com/"
+"SupportPhone"="04 05 06 07 08"
+"Model"="Modele"
+"Logo"="C:\\logo.bmp"
