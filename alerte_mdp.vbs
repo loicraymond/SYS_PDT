@@ -12,7 +12,7 @@ Dim jours_alerte
 date_jour = Date
 
 ' Je défini le nombre de jours avant l'affichage du message d'alerte
-jours_alerte = 18000
+jours_alerte = 14
 
 ' Je récupère les informations dans l'Active Directory
 Set login = CreateObject("ADSystemInfo")  
