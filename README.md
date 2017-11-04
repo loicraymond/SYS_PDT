@@ -4,3 +4,5 @@ Ce repository contient différents fichiers de configuration permettant le dépl
 - *AutoConfigProxy.reg* : Mise en place du script de configuration automatique du proxy
 - *DisableJavaUpdate_32bits.reg* : Désactivation des mises à jour Java pour une architecture Windows 32 bits
 - *DisableJavaUpdate_64bits.reg* : Désactivation des mises à jour Java pour une architecture Windows 64 bits
+- *DisableHibernation.reg* : Désactive la mise en veille prolongée
+- *DisableSMB.reg* : Désactive les protocoles SMB versions 1 et 2
