@@ -2,6 +2,7 @@ Ce repository contient différents fichiers de configuration permettant le dépl
 
 **Fichiers de configuration :**
 - *AutoConfigProxy.reg* : Mise en place du script de configuration automatique du proxy
+- *DisableAutorun.reg* : Désactivation des autorun présents sur tous les supports (CD/DVD, USB ...)
 - *DisableJavaUpdate_32bits.reg* : Désactivation des mises à jour Java pour une architecture Windows 32 bits
 - *DisableJavaUpdate_64bits.reg* : Désactivation des mises à jour Java pour une architecture Windows 64 bits
 - *DisableHibernation.reg* : Désactive la mise en veille prolongée
