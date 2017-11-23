@@ -8,3 +8,4 @@ Ce repository contient différents fichiers de configuration permettant le dépl
 - *DisableHibernation.reg* : Désactive la mise en veille prolongée
 - *DisableSMB.reg* : Désactive les protocoles SMB versions 1 et 2
 - *SupportInformations.reg* : Mise en place d'informations constructeur/modèle/support dans les informations système de Windows
+- *UseWindowsUpdateServer.reg* : Configuration de Windows Update pour l'utilisation d'un serveur WSUS
