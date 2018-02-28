@@ -6,6 +6,7 @@ Ce repository contient différents fichiers de configuration permettant le dépl
 - *DisableJavaUpdate_32bits.reg* : Désactivation des mises à jour Java pour une architecture Windows 32 bits
 - *DisableJavaUpdate_64bits.reg* : Désactivation des mises à jour Java pour une architecture Windows 64 bits
 - *DisableHibernation.reg* : Désactive la mise en veille prolongée
+- *DisableUpdateDelivery.reg* : Désactive le partage de mises à jour de Windows 10
 - *DisableSMB.reg* : Désactive les protocoles SMB versions 1 et 2
 - *DisableUAC.reg* : Désactive le Contrôle de Compte Utilisateur (User Account Control)
 - *EnableSSO.reg* : Active la prise en charge du SSO 
