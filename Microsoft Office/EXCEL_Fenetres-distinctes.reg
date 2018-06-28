@@ -1,0 +1,19 @@
+Windows Registry Editor Version 5.00
+
+; Nom : EXCEL_Fenetres-distinctes.reg
+; Description : Ouverture de fichiers Excel dans des fenêtres séparées
+; Date : 28/06/2018
+
+; Je supprime les clés de registre
+[-HKEY_CLASSES_ROOT\Excel.Sheet.8\shell\Open\command]
+[-HKEY_CLASSES_ROOT\Excel.Sheet.12\shell\Open\command]
+[-HKEY_CLASSES_ROOT\Excel.Sheet.8\shell\Open\ddeexec]
+[-HKEY_CLASSES_ROOT\Excel.Sheet.12\shell\Open\ddeexec]
+
+; Je modifie les valeurs des clés de registre
+[HKEY_CLASSES_ROOT\Excel.Sheet.12\shell\Open\command]
+@="\"C:\\Program Files (x86)\\Microsoft Office\\Office14\\EXCEL.EXE\" /e \"%1\""
+
+[HKEY_CLASSES_ROOT\Excel.Sheet.8\shell\Open\command]
+@="\"C:\\Program Files (x86)\\Microsoft Office\\Office14\\EXCEL.EXE\" /e \"%1\""
+
