@@ -8,7 +8,7 @@ Ce repository contient différents fichiers de configuration permettant le dépl
 
 **Microsoft Office :**
 - *Excel2010_separate_windows.reg* : Ouverture des fichiers Excel dans des fenêtres séparées
-- *Office2013_EnableADAL.reg* : Activation de l'authentification Moderne pour Office
+- *Office2013_EnableADAL.reg* : Activation de l'authentification Moderne pour Office 2013
 
 **Windows :**
 - *AutoConfigProxy.reg* : Mise en place du script de configuration automatique du proxy
