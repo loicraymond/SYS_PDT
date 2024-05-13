@@ -12,6 +12,7 @@ Ce repository contient différents fichiers de configuration permettant le dépl
 
 **Windows :**
 - *AutoConfigProxy.reg* : Mise en place du script de configuration automatique du proxy
+- *Clear-print-spooler.bat* : Suppression des fichiers du spouleur d'impressions
 - *DisableAutorun.reg* : Désactivation des autorun présents sur tous les supports (CD/DVD, USB ...)
 - *DisableCortana.reg* : Désactivation de Cortana
 - *DisableHibernate.reg* : Désactivation de l'hibernation
